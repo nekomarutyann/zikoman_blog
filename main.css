@@ -1,0 +1,63 @@
+.he {
+    background-color: #4b4875;
+    color: #fff;
+    text-align: center; 
+}
+
+.he h1{
+    padding-top: 50px;
+    font-size: 50px;
+}
+
+.he p{
+    padding-bottom: 50px;
+    font-size: 15px;
+}
+
+.kousinn{
+    text-align: center;
+    border-top: 1px solid #adadad;
+    border-bottom: 1px solid #adadad;
+}
+
+.bu{
+    text-align: center;
+    border-bottom: 1px solid #adadad;
+}
+
+.pu{
+   text-align: center; 
+}
+
+.hu{
+    background-color: #181726;
+    color: #fff;
+    text-align: center;
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+details:not(:last-child) {margin-bottom: 20px;}
+
+details summary {
+  list-style: none;
+  cursor: pointer;
+  padding: 20px;
+  background: #fff;
+  color: #000;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+details summary::-webkit-details-marker {display: none;}
+
+
+details p {
+  margin: 0;
+  padding: 20px;
+}
