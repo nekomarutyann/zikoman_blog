@@ -135,6 +135,10 @@ table{}
 }
 
 
+.fai{
+	color: red;
+}
+
 details:not(:last-child) {margin-bottom: 20px;}
 
 details summary {
